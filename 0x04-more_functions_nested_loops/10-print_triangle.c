@@ -1,3 +1,4 @@
+
 #include "main.h"
 
 /**
@@ -19,3 +20,4 @@ void print_triangle(int size)
 		_putchar('\n');
 		size--;
 	}
+}
